@@ -1,0 +1,13 @@
+body {
+    background: url(https://media.gettyimages.com/photos/defocused-bookstore-background-shelves-with-books-picture-id509109438?b=1&k=6&m=509109438&s=612x612&w=0&h=l3IitrNdRieDntNvOeU9QZDywOo4eO6xppN4wX5keQA=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form, .review {
+	background-color: white;
+	border-color: black;
+	border-radius: 10px;
+	border-style: solid;
+	padding-bottom: 20px;
+	border-width: 1px;
+}
